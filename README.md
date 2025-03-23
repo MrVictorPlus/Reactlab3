@@ -125,7 +125,6 @@ export default ProductList;
 ## Список использованных источников
 
 - [Официальная документация React](https://reactjs.org/)
-- [MDN Web Docs: React Hooks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/React)
 - [Учебник по React на freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/)
 
 ## Дополнительные важные аспекты
